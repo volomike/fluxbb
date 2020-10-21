@@ -1,4 +1,13 @@
-# FluxBB 1.5 Readme
+# FluxBB 1.5.11 Fork 1.1 Readme
+
+## COMING IMPROVEMENTS IN THIS FORK (SOON!)
+
+* Pen test report and security improvements.
+* Plugins (if necessary, otherwise code forks):
+  - Markdown Plugin: Removes BBCode altogether and switches it with Markdown, as well as Markdown toolbar.
+  - File Attachment Plugin: Ability to attach files to messages, but restricts file size and file extension type, as well as does security checks before files are enabled for download. Admin settings let you decide possible file extensions.
+  - Registration Admin Plugin: Ability to turn off regular registrations and require an admin to add someone via email address, and no email confirmation.
+  - No Guest View Plugin: Turns off ability to view anything except a login form unless registered and logged in.
 
 ## About
 
